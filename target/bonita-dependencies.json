@@ -1,0 +1,419 @@
+{
+  "connectorImplementations" : [ {
+    "type" : "CONNECTOR",
+    "className" : "org.bonitasoft.connectors.database.jdbc.JdbcConnector",
+    "implementationId" : "database-oracle10g-impl",
+    "implementationVersion" : "2.0.3",
+    "definitionId" : "database-oracle10g",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-oracle10g.impl"
+  }, {
+    "type" : "CONNECTOR",
+    "className" : "org.bonitasoft.connectors.database.jdbc.JdbcConnector",
+    "implementationId" : "database-oracle11g-impl",
+    "implementationVersion" : "2.0.3",
+    "definitionId" : "database-oracle11g",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-oracle11g.impl"
+  }, {
+    "type" : "CONNECTOR",
+    "className" : "org.bonitasoft.connectors.database.jdbc.JdbcConnector",
+    "implementationId" : "database-h2-impl",
+    "implementationVersion" : "2.0.3",
+    "definitionId" : "database-h2",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-h2.impl"
+  }, {
+    "type" : "CONNECTOR",
+    "className" : "org.bonitasoft.connectors.database.jdbc.JdbcConnector",
+    "implementationId" : "database-db2-impl",
+    "implementationVersion" : "2.0.3",
+    "definitionId" : "database-db2",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-db2.impl"
+  }, {
+    "type" : "CONNECTOR",
+    "className" : "org.bonitasoft.connectors.database.jdbc.JdbcConnector",
+    "implementationId" : "database-postgresql92-impl",
+    "implementationVersion" : "2.0.3",
+    "definitionId" : "database-postgresql92",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-postgresql92.impl"
+  }, {
+    "type" : "CONNECTOR",
+    "className" : "org.bonitasoft.connectors.database.jdbc.JdbcConnector",
+    "implementationId" : "database-mssqlserver-impl",
+    "implementationVersion" : "2.0.3",
+    "definitionId" : "database-mssqlserver",
+    "definitionVersion" : "1.2.1",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-mssqlserver.impl"
+  }, {
+    "type" : "CONNECTOR",
+    "className" : "org.bonitasoft.connectors.database.jdbc.JdbcConnector",
+    "implementationId" : "database-sybase-impl",
+    "implementationVersion" : "2.0.3",
+    "definitionId" : "database-sybase",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-sybase.impl"
+  }, {
+    "type" : "CONNECTOR",
+    "className" : "org.bonitasoft.connectors.database.jdbc.JdbcConnector",
+    "implementationId" : "database-ingres-impl",
+    "implementationVersion" : "2.0.3",
+    "definitionId" : "database-ingres",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-ingres.impl"
+  }, {
+    "type" : "CONNECTOR",
+    "className" : "org.bonitasoft.connectors.database.jdbc.JdbcConnector",
+    "implementationId" : "database-access-impl",
+    "implementationVersion" : "2.0.3",
+    "definitionId" : "database-access",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-access.impl"
+  }, {
+    "type" : "CONNECTOR",
+    "className" : "org.bonitasoft.connectors.database.jdbc.JdbcConnector",
+    "implementationId" : "database-postgresql84-impl",
+    "implementationVersion" : "2.0.3",
+    "definitionId" : "database-postgresql84",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-postgresql84.impl"
+  }, {
+    "type" : "CONNECTOR",
+    "className" : "org.bonitasoft.connectors.database.jdbc.JdbcConnector",
+    "implementationId" : "database-as400-impl",
+    "implementationVersion" : "2.0.3",
+    "definitionId" : "database-as400",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-as400.impl"
+  }, {
+    "type" : "CONNECTOR",
+    "className" : "org.bonitasoft.connectors.database.jdbc.JdbcConnector",
+    "implementationId" : "database-teradata-impl",
+    "implementationVersion" : "2.0.3",
+    "definitionId" : "database-teradata",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-teradata.impl"
+  }, {
+    "type" : "CONNECTOR",
+    "className" : "org.bonitasoft.connectors.database.jdbc.JdbcConnector",
+    "implementationId" : "database-hsqldb-impl",
+    "implementationVersion" : "2.0.3",
+    "definitionId" : "database-hsqldb",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-hsqldb.impl"
+  }, {
+    "type" : "CONNECTOR",
+    "className" : "org.bonitasoft.connectors.database.jdbc.JdbcConnector",
+    "implementationId" : "database-jdbc-impl",
+    "implementationVersion" : "2.0.3",
+    "definitionId" : "database-jdbc",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-jdbc.impl"
+  }, {
+    "type" : "CONNECTOR",
+    "className" : "org.bonitasoft.connectors.database.jdbc.JdbcConnector",
+    "implementationId" : "database-mysql-impl",
+    "implementationVersion" : "2.0.3",
+    "definitionId" : "database-mysql",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-mysql.impl"
+  }, {
+    "type" : "CONNECTOR",
+    "className" : "org.bonitasoft.connectors.database.jdbc.JdbcConnector",
+    "implementationId" : "database-informix-impl",
+    "implementationVersion" : "2.0.3",
+    "definitionId" : "database-informix",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-informix.impl"
+  }, {
+    "type" : "CONNECTOR",
+    "className" : "org.bonitasoft.connectors.database.datasource.DatasourceConnector",
+    "implementationId" : "database-datasource-impl",
+    "implementationVersion" : "2.0.3",
+    "definitionId" : "database-datasource",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-datasource.impl"
+  } ],
+  "filterImplementations" : [ ],
+  "connectorDefinitions" : [ {
+    "definitionId" : "database-mssqlserver",
+    "definitionVersion" : "1.2.1",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-mssqlserver.def"
+  }, {
+    "definitionId" : "database-postgresql92",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-postgresql92.def"
+  }, {
+    "definitionId" : "database-h2",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-h2.def"
+  }, {
+    "definitionId" : "database-hsqldb",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-hsqldb.def"
+  }, {
+    "definitionId" : "database-mysql",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-mysql.def"
+  }, {
+    "definitionId" : "database-db2",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-db2.def"
+  }, {
+    "definitionId" : "database-oracle10g",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-oracle10g.def"
+  }, {
+    "definitionId" : "database-ingres",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-ingres.def"
+  }, {
+    "definitionId" : "database-oracle11g",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-oracle11g.def"
+  }, {
+    "definitionId" : "database-access",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-access.def"
+  }, {
+    "definitionId" : "database-postgresql84",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-postgresql84.def"
+  }, {
+    "definitionId" : "database-informix",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-informix.def"
+  }, {
+    "definitionId" : "database-sybase",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-sybase.def"
+  }, {
+    "definitionId" : "database-as400",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-as400.def"
+  }, {
+    "definitionId" : "database-datasource",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-datasource.def"
+  }, {
+    "definitionId" : "database-teradata",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-teradata.def"
+  }, {
+    "definitionId" : "database-jdbc",
+    "definitionVersion" : "1.0.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.connectors",
+      "artifactId" : "bonita-connector-database",
+      "version" : "2.0.3",
+      "file" : "C:\\Users\\Admin\\.m2\\repository\\org\\bonitasoft\\connectors\\bonita-connector-database\\2.0.3\\bonita-connector-database-2.0.3.jar"
+    },
+    "jarEntry" : "database-jdbc.def"
+  } ],
+  "filterDefinitions" : [ ],
+  "restApiExtensions" : [ ],
+  "pages" : [ ],
+  "forms" : [ ],
+  "themes" : [ ],
+  "issues" : [ ]
+}
